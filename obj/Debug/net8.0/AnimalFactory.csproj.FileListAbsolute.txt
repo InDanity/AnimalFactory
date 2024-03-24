@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\AnimalFactory\bin\Debug\net8.0\AnimalFactory.exe
+C:\Users\Daniel\Desktop\AnimalFactory\bin\Debug\net8.0\AnimalFactory.deps.json
+C:\Users\Daniel\Desktop\AnimalFactory\bin\Debug\net8.0\AnimalFactory.runtimeconfig.json
+C:\Users\Daniel\Desktop\AnimalFactory\bin\Debug\net8.0\AnimalFactory.dll
+C:\Users\Daniel\Desktop\AnimalFactory\bin\Debug\net8.0\AnimalFactory.pdb
+C:\Users\Daniel\Desktop\AnimalFactory\obj\Debug\net8.0\AnimalFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\AnimalFactory\obj\Debug\net8.0\AnimalFactory.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\AnimalFactory\obj\Debug\net8.0\AnimalFactory.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\AnimalFactory\obj\Debug\net8.0\AnimalFactory.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\AnimalFactory\obj\Debug\net8.0\AnimalFactory.dll
+C:\Users\Daniel\Desktop\AnimalFactory\obj\Debug\net8.0\refint\AnimalFactory.dll
+C:\Users\Daniel\Desktop\AnimalFactory\obj\Debug\net8.0\AnimalFactory.pdb
+C:\Users\Daniel\Desktop\AnimalFactory\obj\Debug\net8.0\AnimalFactory.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\AnimalFactory\obj\Debug\net8.0\ref\AnimalFactory.dll
